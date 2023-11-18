@@ -1,46 +1,44 @@
-
 function getMonthName(monthNum) {
   switch (monthNum) {
     case 1:
-      console.log("january");
+      console.log("January");
       break;
     case 2:
-      console.log("february");
+      console.log("February");
       break;
     case 3:
-      console.log("march");
+      console.log("March");
       break;
     case 4:
-      console.log("april");
+      console.log("April");
       break;
     case 5:
-      console.log("may");
+      console.log("May");
       break;
     case 6:
-      console.log("june");
+      console.log("June");
       break;
     case 7:
-      console.log("july");
+      console.log("July");
       break;
     case 8:
-      console.log("august");
+      console.log("August");
       break;
     case 9:
-      console.log("september");
+      console.log("September");
       break;
     case 10:
-      console.log("october");
+      console.log("October");
       break;
     case 11:
-      console.log("november");
+      console.log("November");
       break;
     case 12:
-      console.log("december");
+      console.log("December");
       break;
     default:
       console.log("Invalid input");
   }
 }
 
-
-getMonthName(3);
+getMonthName(4);
