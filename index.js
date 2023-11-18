@@ -1,5 +1,3 @@
-console.clear();
-
 
 function getMonthName(monthNum) {
   switch (monthNum) {
